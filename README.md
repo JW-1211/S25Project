@@ -4,7 +4,7 @@
 
 **1.** The students will first memorize the words, and undergo a test afterwords to see if they can spell the words impeccably, with both processes carried out by applications.
 
-**2.** The students will listen to the story by audio generated from Text-To-Speech.
+**2.** The students will listen to the story from audio generated from a Text-To-Speech application.
 
 **3.** An image (generated from AI) that summarizes the story will be attached so as to understand the story better(may take up to four images).
 
@@ -16,4 +16,4 @@
 
 **4-3.** Finally, they will participate in a quiz to check their learning(also via app).
 
-**5.** Using Speech-To-Text, students will create sentences of their own that can serve the dual purpose of checking their pronunciation as well as encouraging creative writing and real-world application.
+**5.** Using a Speech-To-Text applicaiton, students will create sentences of their own that can serve the dual purpose of checking their pronunciation as well as encouraging creative writing and real-world application.
