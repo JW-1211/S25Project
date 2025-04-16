@@ -1,9 +1,19 @@
-The teacher/instructor generates a wordcloud image and a story-depicting artistic image for the story which will function as an overview before reading the story.
-The students memorize the words and undergo a test to see if they can spell the words without making mistakes
-The students listen to audio generated from TTS
-An image that summarizes the story will be generated to understand the story better, may take up to four images.
-Grammar education of regular/irregular past tenses and past participles from the story
-The teacher will use an application that assists in the explanation of past tense forms
-The students will use an application that can be used to check the past tense/past participle forms for the word that they enter
-Finally, they will participate in a quiz(also via app).
-Using STT, students will create sentences of their own that can serve the dual purpose of checking their own pronunciation as well as encouraging creative writing and application.
+#Lecture designed for 2nd graders in middle school, to provide insight on past tense/past participle conversion for various words
+
+0. The teacher/instructor generates a wordcloud image and a story-depicting artistic image for the story which will function as an overview before reading the story.
+
+1. The students will first memorize the words, and will undergo a test afterwords to see if they can spell the words impeccably, both proccesses carried out by applications.
+
+2. The students will listen to the story by audio generated from TTS.
+
+3. An image (generated from AI) that summarizes the story will be attached so as to understand the story better, (may take up to four images).
+
+4. The teacher will educate the students on regular/irregular past tenses and past participles sued in the story.
+
+4-1. The teacher will use an application that assists in the explanation of past tense forms of various words.
+
+4-2. The students will use an application that can check the past tense/past participle forms for the worda that they enter.
+
+4-3. Finally, they will participate in a quiz to check their learning(also via app).
+
+5. Using Speech-To-Text, students will create sentences of their own that can serve the dual purpose of checking their pronunciation as well as encouraging creative writing and real-world application.
