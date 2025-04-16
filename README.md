@@ -6,7 +6,7 @@
 
 **2.** The students will listen to the story by audio generated from Text-To-Speech.
 
-**3.** An image (generated from AI) that summarizes the story will be attached so as to understand the story better, (may take up to four images).
+**3.** An image (generated from AI) that summarizes the story will be attached so as to understand the story better(may take up to four images).
 
 **4.** The teacher will educate the students on regular/irregular past tenses and past participles sued in the story.
 
