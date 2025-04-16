@@ -1,6 +1,6 @@
 ## Lecture designed for 2nd graders in middle school, to provide insight on past tense/past participle conversion for various words
 
-__0.__ The teacher/instructor generates a wordcloud image and a story-depicting artistic image for the story which will function as an overview before reading the story.
+**0.** The teacher/instructor will generate a wordcloud image and a story-depicting artistic image for the story which will function as an overview before reading the story.
 
 **1.** The students will first memorize the words, and will undergo a test afterwords to see if they can spell the words impeccably, both proccesses carried out by applications.
 
