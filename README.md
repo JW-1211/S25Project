@@ -2,7 +2,7 @@
 
 **0.** The teacher/instructor will generate a wordcloud image and a plot-depicting artistic image that corresponds to the story which will function as an overview before reading.
 
-**1.** The students will first memorize the words, and undergo a test afterwords to see if they can spell the words impeccably, both proccesses carried out by applications.
+**1.** The students will first memorize the words, and undergo a test afterwords to see if they can spell the words impeccably, with both processes carried out by applications.
 
 **2.** The students will listen to the story by audio generated from Text-To-Speech.
 
