@@ -4,7 +4,7 @@
 
 **1.** The students will first memorize the words, and will undergo a test afterwords to see if they can spell the words impeccably, both proccesses carried out by applications.
 
-**2.** The students will listen to the story by audio generated from TTS.
+**2.** The students will listen to the story by audio generated from Text-To-Speech.
 
 **3.** An image (generated from AI) that summarizes the story will be attached so as to understand the story better, (may take up to four images).
 
@@ -12,7 +12,7 @@
 
 **4-1.** The teacher will use an application that assists in the explanation of past tense forms of various words.
 
-**4-2.** The students will use an application that can check the past tense/past participle forms for the worda that they enter.
+**4-2.** The students will use an application that can check the past tense/past participle forms for the words that they enter.
 
 **4-3.** Finally, they will participate in a quiz to check their learning(also via app).
 
