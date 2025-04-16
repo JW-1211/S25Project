@@ -1,4 +1,4 @@
-#Lecture designed for 2nd graders in middle school, to provide insight on past tense/past participle conversion for various words
+## Lecture designed for 2nd graders in middle school, to provide insight on past tense/past participle conversion for various words
 
 0. The teacher/instructor generates a wordcloud image and a story-depicting artistic image for the story which will function as an overview before reading the story.
 
