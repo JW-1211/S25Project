@@ -16,4 +16,4 @@
 
 **4-3.** Finally, they will participate in a quiz to check their learning(also via app).
 
-**5.** Using a Speech-To-Text application, students will create sentences of their own that can serve the dual purpose of checking their pronunciation as well as encouraging creative writing and real-world application.
+**5.** Using a Speech-To-Text application, students will create and record sentences of their own that can serve the dual purpose of evaluating their pronunciation, as well as encouraging creative writing and real-world application.
